@@ -13,7 +13,5 @@ Thumbs.db
 .idea
 
 # Ignored files
-*.js
 *.map
-*.d.ts
 *lock.json

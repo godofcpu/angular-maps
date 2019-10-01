@@ -1,0 +1,23 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,uselessCode} checked by tsc
+ */
+/** *
+ * This contstant translates the abstract map events into their corresponding google map
+ * equivalents.
+  @type {?} */
+export const GoogleMapEventsLookup = {
+    click: 'click',
+    dblclick: 'dblclick',
+    rightclick: 'rightclick',
+    resize: 'resize',
+    boundschanged: 'bounds_changed',
+    centerchanged: 'center_changed',
+    zoomchanged: 'zoom_changed',
+    mouseover: 'mouseover',
+    mouseout: 'mouseout',
+    mousemove: 'mousemove',
+    infowindowclose: 'closeclick'
+};
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZ29vZ2xlLWV2ZW50cy1sb29rdXAuanMiLCJzb3VyY2VSb290Ijoibmc6Ly9hbmd1bGFyLW1hcHMvIiwic291cmNlcyI6WyJzcmMvbW9kZWxzL2dvb2dsZS9nb29nbGUtZXZlbnRzLWxvb2t1cC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7Ozs7OztBQU1BLGFBQWEscUJBQXFCLEdBQW9CO0lBQ2xELEtBQUssRUFBZSxPQUFPO0lBQzNCLFFBQVEsRUFBWSxVQUFVO0lBQzlCLFVBQVUsRUFBVSxZQUFZO0lBQ2hDLE1BQU0sRUFBYyxRQUFRO0lBQzVCLGFBQWEsRUFBTyxnQkFBZ0I7SUFDcEMsYUFBYSxFQUFPLGdCQUFnQjtJQUNwQyxXQUFXLEVBQVMsY0FBYztJQUNsQyxTQUFTLEVBQVcsV0FBVztJQUMvQixRQUFRLEVBQVksVUFBVTtJQUM5QixTQUFTLEVBQVcsV0FBVztJQUMvQixlQUFlLEVBQUssWUFBWTtDQUNuQyxDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgSU1hcEV2ZW50TG9va3VwIH0gZnJvbSAnLi4vLi4vaW50ZXJmYWNlcy9pbWFwLWV2ZW50LWxvb2t1cCc7XG5cbi8qKlxuICogVGhpcyBjb250c3RhbnQgdHJhbnNsYXRlcyB0aGUgYWJzdHJhY3QgbWFwIGV2ZW50cyBpbnRvIHRoZWlyIGNvcnJlc3BvbmRpbmcgZ29vZ2xlIG1hcFxuICogZXF1aXZhbGVudHMuXG4gKi9cbmV4cG9ydCBjb25zdCBHb29nbGVNYXBFdmVudHNMb29rdXA6IElNYXBFdmVudExvb2t1cCA9IHtcbiAgICBjbGljayA6ICAgICAgICAgICAgICdjbGljaycsXG4gICAgZGJsY2xpY2sgOiAgICAgICAgICAnZGJsY2xpY2snLFxuICAgIHJpZ2h0Y2xpY2sgOiAgICAgICAgJ3JpZ2h0Y2xpY2snLFxuICAgIHJlc2l6ZSA6ICAgICAgICAgICAgJ3Jlc2l6ZScsXG4gICAgYm91bmRzY2hhbmdlZCA6ICAgICAnYm91bmRzX2NoYW5nZWQnLFxuICAgIGNlbnRlcmNoYW5nZWQgOiAgICAgJ2NlbnRlcl9jaGFuZ2VkJyxcbiAgICB6b29tY2hhbmdlZCA6ICAgICAgICd6b29tX2NoYW5nZWQnLFxuICAgIG1vdXNlb3ZlcjogICAgICAgICAgJ21vdXNlb3ZlcicsXG4gICAgbW91c2VvdXQgOiAgICAgICAgICAnbW91c2VvdXQnLFxuICAgIG1vdXNlbW92ZSA6ICAgICAgICAgJ21vdXNlbW92ZScsXG4gICAgaW5mb3dpbmRvd2Nsb3NlOiAgICAnY2xvc2VjbGljaydcbn07XG4iXX0=

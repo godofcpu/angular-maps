@@ -1,0 +1,23 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,uselessCode} checked by tsc
+ */
+/** *
+ * This contstant translates the abstract map events into their corresponding bing map
+ * equivalents.
+  @type {?} */
+export const BingMapEventsLookup = {
+    click: 'click',
+    dblclick: 'dblclick',
+    rightclick: 'rightclick',
+    resize: 'resize',
+    boundschanged: 'viewchangeend',
+    centerchanged: 'viewchangeend',
+    zoomchanged: 'viewchangeend',
+    mouseover: 'mouseover',
+    mouseout: 'mouseout',
+    mousemove: 'mousemove',
+    infowindowclose: 'infoboxChanged'
+};
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYmluZy1ldmVudHMtbG9va3VwLmpzIiwic291cmNlUm9vdCI6Im5nOi8vYW5ndWxhci1tYXBzLyIsInNvdXJjZXMiOlsic3JjL21vZGVscy9iaW5nL2JpbmctZXZlbnRzLWxvb2t1cC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7Ozs7OztBQU1BLGFBQWEsbUJBQW1CLEdBQW9CO0lBQ2hELEtBQUssRUFBZSxPQUFPO0lBQzNCLFFBQVEsRUFBWSxVQUFVO0lBQzlCLFVBQVUsRUFBVSxZQUFZO0lBQ2hDLE1BQU0sRUFBYyxRQUFRO0lBQzVCLGFBQWEsRUFBTyxlQUFlO0lBQ25DLGFBQWEsRUFBTyxlQUFlO0lBQ25DLFdBQVcsRUFBUyxlQUFlO0lBQ25DLFNBQVMsRUFBVyxXQUFXO0lBQy9CLFFBQVEsRUFBWSxVQUFVO0lBQzlCLFNBQVMsRUFBVyxXQUFXO0lBQy9CLGVBQWUsRUFBSyxnQkFBZ0I7Q0FDdkMsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IElNYXBFdmVudExvb2t1cCB9IGZyb20gJy4uLy4uL2ludGVyZmFjZXMvaW1hcC1ldmVudC1sb29rdXAnO1xuXG4vKipcbiAqIFRoaXMgY29udHN0YW50IHRyYW5zbGF0ZXMgdGhlIGFic3RyYWN0IG1hcCBldmVudHMgaW50byB0aGVpciBjb3JyZXNwb25kaW5nIGJpbmcgbWFwXG4gKiBlcXVpdmFsZW50cy5cbiAqL1xuZXhwb3J0IGNvbnN0IEJpbmdNYXBFdmVudHNMb29rdXA6IElNYXBFdmVudExvb2t1cCA9IHtcbiAgICBjbGljayA6ICAgICAgICAgICAgICdjbGljaycsXG4gICAgZGJsY2xpY2sgOiAgICAgICAgICAnZGJsY2xpY2snLFxuICAgIHJpZ2h0Y2xpY2sgOiAgICAgICAgJ3JpZ2h0Y2xpY2snLFxuICAgIHJlc2l6ZSA6ICAgICAgICAgICAgJ3Jlc2l6ZScsXG4gICAgYm91bmRzY2hhbmdlZCA6ICAgICAndmlld2NoYW5nZWVuZCcsXG4gICAgY2VudGVyY2hhbmdlZCA6ICAgICAndmlld2NoYW5nZWVuZCcsXG4gICAgem9vbWNoYW5nZWQgOiAgICAgICAndmlld2NoYW5nZWVuZCcsXG4gICAgbW91c2VvdmVyOiAgICAgICAgICAnbW91c2VvdmVyJyxcbiAgICBtb3VzZW91dCA6ICAgICAgICAgICdtb3VzZW91dCcsXG4gICAgbW91c2Vtb3ZlIDogICAgICAgICAnbW91c2Vtb3ZlJyxcbiAgICBpbmZvd2luZG93Y2xvc2U6ICAgICdpbmZvYm94Q2hhbmdlZCdcbn07XG4iXX0=
